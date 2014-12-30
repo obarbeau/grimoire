@@ -1,10 +1,13 @@
 /bin
 /checkouts
 /classes
+/dat
+/doc-store
 /deploy
 /ehcache.disk.store.dir
 /lib
 /media
+/notes-store
 /out
 /reports
 /resources/public/js/gen
